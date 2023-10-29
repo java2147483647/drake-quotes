@@ -13,6 +13,7 @@ As luck would have it, I've settled into my role as the good guy
 Live a little, 'cause niggas die a lot
 Please excuse my table manners, I was making room for the table dancers
 You need to act your age and not your girl's age
+I'm a bill printer, I'm a grave digger
 I'll probably self-destruct if I ever lose but I never do`
 
 const quotes = quotesTxt.split("\n");
