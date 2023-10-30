@@ -27,7 +27,9 @@ It's supposed to be a lot of hard working goin' on, but who the fuck could focus
 Drinkin', smokin', fuckin', plottin, schemin', plottin', schemin', gettin' money
 Your lack of effort got me rapping different
 Yours truly, the boy
-Cashmere knits for the nighttime boat rides`
+Cashmere knits for the nighttime boat rides
+Friends in high places and friends that are high still
+Still managed to moonwalk straight through a minefield`
 
 const quotes = quotesTxt.split("\n");
 outputRandomQuote(quotes);
