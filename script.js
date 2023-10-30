@@ -25,7 +25,9 @@ Drinkin', smokin', fuckin', plottin, schemin', plottin', schemin', gettin' money
 Your lack of effort got me rapping different
 Yours truly, the boy
 Friends in high places and friends that are high still
-Still managed to moonwalk straight through a minefield`
+Still managed to moonwalk straight through a minefield
+Need y'all to know that I never needed none of y'all niggas
+I'm happiest when I can buy what I want, get high when I want`
 
 const quotes = quotesTxt.split("\n");
 outputRandomQuote(quotes);
