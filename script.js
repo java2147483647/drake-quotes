@@ -21,13 +21,10 @@ She says "You're such a dog," I say "You're such a bone"
 Looking for the right way to do the wrong things
 I'm honest, I make mistakes, I'd be the second to admit it
 I just set the bar, niggas fall under it like a limbo
-Your mama used to live at the church on Sunday, you just go to LIV after church on Sunday
-I've been stacking up like I'm fundraising
-It's supposed to be a lot of hard working goin' on, but who the fuck could focus with this twerking goin' on?
+I've been stackin' up like I'm fundraising
 Drinkin', smokin', fuckin', plottin, schemin', plottin', schemin', gettin' money
 Your lack of effort got me rapping different
 Yours truly, the boy
-Cashmere knits for the nighttime boat rides
 Friends in high places and friends that are high still
 Still managed to moonwalk straight through a minefield`
 
