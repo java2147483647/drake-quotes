@@ -4,7 +4,6 @@ Houston they get me though, European my vehicle
 They say love's like a BBL, you won't know if it's real until you feel one
 Man got flown like private jets for way way less
 Still steppin' like Omega Psi Phi for mine
-At the table praying banker shows a natural 9, It never happens half the time
 Had to pull my niggas out the mud like I'm training marines
 I feel like lately it went from top 5 to remaining 5
 Cris' bottle sender, check-picker-upper
