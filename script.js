@@ -22,10 +22,10 @@ Looking for the right way to do the wrong things
 I'm honest, I make mistakes, I'd be the second to admit it
 I just set the bar, niggas fall under it like a limbo
 Your mama used to live at the church on Sunday, you just go to LIV after church on Sunday
-I've been stackin' up like I'm fundraising
-It's supposed to be a lot of hard workin' goin' on, but who the fuck can focus with this twerkin' goin' on?
+I've been stacking up like I'm fundraising
+It's supposed to be a lot of hard working goin' on, but who the fuck could focus with this twerking goin' on?
 Drinkin', smokin', fuckin', plottin, schemin', plottin', schemin', gettin' money
-Your lack of effort got me rappin' different
+Your lack of effort got me rapping different
 Yours truly, the boy
 Cashmere knits for the nighttime boat rides`
 
