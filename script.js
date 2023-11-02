@@ -27,7 +27,8 @@ Yours truly, the boy
 Friends in high places and friends that are high still
 Still managed to moonwalk straight through a minefield
 Need y'all to know that I never needed none of y'all niggas
-I'm happiest when I can buy what I want, get high when I want`
+I'm happiest when I can buy what I want, get high when I want
+Got so many opps I be mistaking opps for other opps`
 
 const quotes = quotesTxt.split("\n");
 outputRandomQuote(quotes);
